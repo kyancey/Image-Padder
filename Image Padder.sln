@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Padder.Android", "Image Padder\Image Padder.Android\Image Padder.Android.csproj", "{1B152A52-52B2-418D-8198-1223736C9659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Padder", "Image Padder\Image Padder\Image Padder.csproj", "{8615436E-6C58-42E4-9C34-4D3531165E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B152A52-52B2-418D-8198-1223736C9659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B152A52-52B2-418D-8198-1223736C9659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B152A52-52B2-418D-8198-1223736C9659}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1B152A52-52B2-418D-8198-1223736C9659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B152A52-52B2-418D-8198-1223736C9659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B152A52-52B2-418D-8198-1223736C9659}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8615436E-6C58-42E4-9C34-4D3531165E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8615436E-6C58-42E4-9C34-4D3531165E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8615436E-6C58-42E4-9C34-4D3531165E1D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8615436E-6C58-42E4-9C34-4D3531165E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8615436E-6C58-42E4-9C34-4D3531165E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8615436E-6C58-42E4-9C34-4D3531165E1D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45BA0F80-5200-43AF-9571-84E74E03C419}
+	EndGlobalSection
+EndGlobal
